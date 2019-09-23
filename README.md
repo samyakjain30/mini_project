@@ -1,2 +1,2 @@
-# coursera-new
+# mini_project
 this is mine
